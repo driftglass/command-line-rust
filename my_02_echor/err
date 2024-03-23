@@ -1,0 +1,9 @@
+    Finished dev [unoptimized + debuginfo] target(s) in 0.05s
+     Running `target\debug\echor.exe`
+error: the following required arguments were not provided:
+  <TEXT>...
+
+Usage: echor.exe <TEXT>...
+
+For more information, try '--help'.
+error: process didn't exit successfully: `target\debug\echor.exe` (exit code: 2)
